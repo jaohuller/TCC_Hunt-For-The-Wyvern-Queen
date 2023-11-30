@@ -6,7 +6,7 @@ This project was made as a fan game based on the Monster Hunter franchise by Cap
 
 The intention behind this project was also to provide a way to newcomers and students to learn the software by providing something that is 100% working, so... all project files, including both characters rigs, are available here for free.
 
-You can do whatever you want with the files, as long as you give me the deserved credits at the end of your project :D
+**You can do whatever you want with the files, as long as you give me the deserved credits at the end of your project** :D
 
 To access only the final game on itch.io, here is the link: https://hullerart.itch.io/hunt-for-the-wyvern-queen
 
