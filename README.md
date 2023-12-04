@@ -2,7 +2,7 @@
 
 ![Final Trailer com QR Code](https://github.com/jaohuller/TCC_Hunt-For-The-Wyvern-Queen/assets/45441340/b21b31e4-b3ec-43a2-9779-606ae6d6e706)
 
-This project was made as a fan game based on the Monster Hunter franchise by Capcom, as part of a college thesis where I study how to develop a game in Unreal Engine 5 and the implementation of 3D characters and their animations inside the engine. 
+This project was made as a fan game based on the Monster Hunter franchise by Capcom, being part of a college thesis where I study how to develop a game in Unreal Engine 5 and the implementation of 3D characters and their animations inside the engine. 
 
 The intention behind this project was also to provide a way to newcomers and students to learn the software by providing something that is 100% working, so... all project files, including both characters rigs, are available here for free.
 
