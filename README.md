@@ -1,4 +1,4 @@
-# TCC_Hunt-For-The-Wyvern-Queen
+# Hunt For The Wyvern Queen Game Release!
 
 ![Final Trailer com QR Code](https://github.com/jaohuller/TCC_Hunt-For-The-Wyvern-Queen/assets/45441340/b21b31e4-b3ec-43a2-9779-606ae6d6e706)
 
