@@ -1,0 +1,8 @@
+Unreal Version: 5.1.0
+
+Blender Version: 3.4
+
+Blender Addons that I used
+
+1 - Game Rig Tools (Enables Interaction Between Both Rigs): https://www.youtube.com/watch?v=iZBx1I7vmQ0&t
+2 - Frame Ranger (Useful For Managing Different Actions): https://github.com/BlenderBoi/Frame_Ranger
